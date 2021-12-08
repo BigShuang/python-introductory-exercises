@@ -1,0 +1,14 @@
+{
+  "contents": "contents",
+  "imgs": "imgs",
+  "project-name": "python-introductory-exercises",
+  "book-name": "大爽Python入门练习题",
+  "layer": "two-linked",
+  "chapters": {
+    "1": "中期练习题 简单",
+    "2": "中期练习题 中等",
+    "3": "中期练习题 困难",
+    "4": "中期练习题 冷酷&凶残",
+    "5": "中期实战 项目练习",
+  }
+}
