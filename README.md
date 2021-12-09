@@ -10,16 +10,16 @@ big shuang python introductory exercises
 > 大爽python入门教程博客: [大爽Python入门教程 总目录](https://www.cnblogs.com/BigShuang/p/14887595.html)
 
 ## 一 中期练习题 简单
-### 1 生成倒序列表
-### 2 合数判断
-### 3 去除所有符号
-### 4 二维列表
-### 5 一串单词找最长
-### 6 中间大小的数
-### 7 最大差值
-### 8 字符次数统计
-### 9 猜结果
-### 10 猜函数
+### [1 倒序生成列表](contents/1/1.md)
+### [2 合数判断](contents/1/2.md)
+### [3 去除所有标点符号](contents/1/3.md)
+### [4 两层循环输出表格形式数据](contents/1/4.md)
+### [5 最长字符串](contents/1/5.md)
+### [6 三个数找中间值](contents/1/6.md)
+### [7 最大差值](contents/1/7.md)
+### [8 字符次数统计](contents/1/8.md)
+### [9 猜结果](contents/1/9.md)
+### [10 猜函数](contents/1/10.md)
 
 ## 二 中期练习题 中等
 ### 1 检查五个相连
