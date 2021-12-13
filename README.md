@@ -27,11 +27,11 @@ big shuang python introductory exercises
 ### [3 数字各位数求和](contents/2/3.md)
 ### [4 最小公倍数](contents/2/4.md)
 ### [5 二维列表行列与序数关系](contents/2/5.md)
-### 6 两数之和
-### 7 列表去重
-### 8 跳跃输出
-### 9 比赛轮数
-### 10 猜结果
+### [6 两数之和](contents/2/6.md)
+### [7 列表去重](contents/2/7.md)
+### [8 跳跃输出](contents/2/8.md)
+### [9 比赛轮数](contents/2/9.md)
+### [10 猜函数](contents/2/10.md)
 
 ## 三 中期练习题 困难
 ### 2 回形矩阵
