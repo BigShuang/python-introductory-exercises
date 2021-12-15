@@ -1,0 +1,5 @@
+apple,10
+banana,5
+cherry,20
+lemon,15
+orange,8
